@@ -1,4 +1,4 @@
-# Note From the Artist
+# Note From the Sample Hat Artist
 **Note:** This was what was written in the notepad provided.
 
 If you are using the hatgoos mod you can config the height location of the hat and the size. This will allow make most of these hats look nice on your goose.
@@ -21,3 +21,9 @@ Feel free to add your own hats here I place mine all in one folder to make it ea
 **Q: Will you take requests?**
 
 **A:** When I feel like picking up on some and it must be appropriate for a request.
+
+
+## Changelog:
+Frog hat updated
+
+Added: Horns, Sunhat (based from the game), Bandana, cop hat (British Type)
