@@ -8,7 +8,7 @@ Feel free to add your own hats here I place mine all in one folder to make it ea
 ## FAQ
 **Q: Where did you get these image? Please Credit the artist.**
 
-**A:** I made it myself. Me.(4na#4667)
+**A:** I made it myself.
 
 **Q: Why is it all pixel art?**
 
